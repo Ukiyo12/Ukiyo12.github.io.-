@@ -17,3 +17,13 @@ c. Die Geheimzahl wurde erraten.
 4.Wenn die Geheimzahl erraten wurde, soll die Anzahl der Rateversuche ausgegeben werden.
 5.Das Programm soll mit Fehleingaben umgehen oder sie vermeiden können.
 6.Erweiterungen, die über diese Anforderungen hinausgehen, sind möglich und willkommen.
+
+Nummer	Muss / Kann?	Funktional? Beschreibung
+1.	Muss		Der Computer speichert eine Zufallszahl zwischen 1 und 100 als Geheimzahl
+2.	Muss		Der Benutzer kannn Zahlen raten
+3.	Muss		Für jede geratenen Zahlen gibt der Computer einen Hinweis aus
+4.	Muss		Wenn der Benutzer nicht eine Zahl zwischen 1 und 100 eingibt, gibt es eine Warnung
+5.	Kann		Wenn die Zahl erraten wurde, wird die Anzahl Versuche angezeigt
+6. 	Kann		Man hat nur 10 Versuche die Zahl zu erraten, wenn die Versuche aufgebraucht sind wird angezeigt das man verloren hat.
+
+
